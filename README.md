@@ -385,12 +385,6 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-**Ryan Fabrick**
-- Statistics and Data Science (B.S) Student, University of California Santa Barbara
-- GitHub: [https://github.com/RyanFabrick](https://github.com/RyanFabrick)
-- LinkedIn: [www.linkedin.com/in/ryan-fabrick](https://www.linkedin.com/in/ryan-fabrick)
-- Email: ryanfabrick@gmail.com
-
 ## Acknowledgments & References
 
 - **[Żbikowski, K., & Antosiuk, P. (2021)](https://www.sciencedirect.com/science/article/pii/S0306457321000595)** - "A machine learning, bias-free approach for predicting business success using Crunchbase data." *Information Processing and Management*, 58(4), 102555
